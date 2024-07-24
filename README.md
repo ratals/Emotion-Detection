@@ -26,7 +26,7 @@ Trained models:
 *Reduces training time.*
 *Improves model performance by building on the learned features of VGG16.*
 
-*Process:
+*Process:*
 *Integrate VGG16 as the base model.*
 *Modify the network architecture to suit the new dataset.*
 *Train the model while retaining the learned weights of the convolutional base.*
