@@ -5,5 +5,24 @@ This project focuses on developing an emotion detection system using Convolution
 Trained models:
 
 1. Build a CNN Artitecture from Scratch
-2. Build a CNN appliying Tranfer Learning usign VGG16 CNN Arch.
+2. Build a CNN appliying Transfer Learning usign VGG16 CNN Arch.
 3. Lastly Build Model using Resnet50-V2 and Achieved a approx of 60% accuracy.
+
+
+
+
+
+## Building a CNN Applying Transfer Learning Using VGG16
+*Project Focus*: Application of transfer learning to build a Convolutional Neural Network (CNN) using the VGG16 architecture.
+*Pre-trained Model*: Utilizes VGG16, known for its deep layers and high accuracy on image classification tasks.
+*Transfer Learning Approach*:
+Leverages pre-trained weights from VGG16 for efficient feature extraction.
+Fine-tunes the top layers of the network to adapt to the specific task.
+*Benefits* :
+Reduces training time.
+Improves model performance by building on the learned features of VGG16.
+*Process:*
+Integrate VGG16 as the base model.
+Modify the network architecture to suit the new dataset.
+Train the model while retaining the learned weights of the convolutional base.
+*Objective:* Demonstrate the efficiency and effectiveness of transfer learning in building robust CNN models for various applications.
