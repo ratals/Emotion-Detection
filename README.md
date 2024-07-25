@@ -21,7 +21,8 @@ Trained models:
 * Process: Integrate VGG16 as the base model. Modify the network architecture to suit the new dataset. Train the model while retaining the learned weights of the convolutional base.
 * Objective: Demonstrate the efficiency and effectiveness of transfer learning in building robust CNN models for various applications.
 
-* ## Building a CNN from Scratch
+
+## Building a CNN from Scratch
 
 This project involves developing a Convolutional Neural Network (CNN) from scratch for image classification. The custom architecture is designed to effectively learn and
 classify images using multiple convolutional, activation, normalization, pooling, and dropout layers.
@@ -36,7 +37,7 @@ classify images using multiple convolutional, activation, normalization, pooling
 * Fully Connected Layers: 2 dense layers, including the output layer.
 
 
-* ## Emotion Detection Using ResNet and FER-2013 Dataset
+## Emotion Detection Using ResNet and FER-2013 Dataset
 This project focuses on emotion detection using the Residual Network (ResNet) architecture with the FER-2013 dataset. Key aspects of the project include:
 
 * Architecture: Utilizes ResNet, which features residual learning to solve the vanishing gradient problem, allowing the training of very deep networks.
