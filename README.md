@@ -41,4 +41,4 @@ This project highlights the effectiveness of ResNet in deep learning tasks and i
 
 ### ResNet performed well w.r.t CNN built from scratch and VGG16 model, also achieved a good F1-score respectively.
 
-#### If you want detailed code for these pls contact me on Linkedin : " https://www.linkedin.com/in/ansh-kapoor-a153a8222/ "
+#### If you want the full code for these projects, please contact me on [LinkedIn](https://www.linkedin.com/in/ansh-kapoor-a153a8222/).
