@@ -4,28 +4,22 @@ This project focuses on developing an emotion detection system using Convolution
 
 Trained models:
 
-1. Build a CNN Artitecture from Scratch
-2. Build a CNN appliying Transfer Learning usign VGG16 CNN Arch.
-3. Lastly Build Model using Resnet50-V2 and Achieved a approx of 60% accuracy.
-
-
-
-
+1. Built a CNN architecture from Scratch
+2. Built a CNN appliying Transfer Learning usign VGG16 CNN Arch.
+3. Lastly Built Model using Resnet50-V2 and Achieved a approx of 60% accuracy.
 
 ## Building a CNN Applying Transfer Learning Using VGG16
 
 * Project Focus: Application of transfer learning to build a Convolutional Neural Network (CNN) using the VGG16 architecture.
 * Pre-trained Model: Utilizes VGG16, known for its deep layers and high accuracy on image classification tasks.
-* Transfer Learning Approach: Leverages pre-trained weights from VGG16 for efficient feature extraction. Fine-tunes the top layers of the network to adapt to the specific task.
+* Transfer Learning Approach: Leverages pre-trained weights from VGG16 for efficient feature extraction. Later fine-tuned the top layers of the network to adapt to the specific task.
 * Benefits: Reduces training time. Improves model performance by building on the learned features of VGG16.
 * Process: Integrate VGG16 as the base model. Modify the network architecture to suit the new dataset. Train the model while retaining the learned weights of the convolutional base.
 * Objective: Demonstrate the efficiency and effectiveness of transfer learning in building robust CNN models for various applications.
 
-
 ## Building a CNN from Scratch
 
-This project involves developing a Convolutional Neural Network (CNN) from scratch for image classification. The custom architecture is designed to effectively learn and
-classify images using multiple convolutional, activation, normalization, pooling, and dropout layers.
+This project involves developing a Convolutional Neural Network (CNN) from scratch for image classification. The custom architecture is designed to effectively learn and classify images using multiple convolutional, activation, normalization, pooling, and dropout layers.
 
 ### CNN Architecture Overview
   This custom Convolutional Neural Network (CNN) is designed for image classification with the following key components:
@@ -40,9 +34,9 @@ classify images using multiple convolutional, activation, normalization, pooling
 ## Emotion Detection Using ResNet and FER-2013 Dataset
 This project focuses on emotion detection using the Residual Network (ResNet) architecture with the FER-2013 dataset. Key aspects of the project include:
 
-* Architecture: Utilizes ResNet, which features residual learning to solve the vanishing gradient problem, allowing the training of very deep networks.
-* Dataset: The FER-2013 dataset contains 35,887 grayscale, 48x48 pixel images of faces labeled with seven emotions.
+* Architecture: Utilizes ResNet, which features residual learning to solve the vanishing gradient problem, allowing the better training of very deep networks.
 * Transfer Learning: Leverages pre-trained ResNet models and fine-tunes them for the specific task of emotion detection.
-* Objective: Achieve high accuracy in emotion recognition by leveraging the robust architecture of ResNet.
+* Objective: Achieved high accuracy in emotion recognition by leveraging the robust architecture of ResNet
 This project highlights the effectiveness of ResNet in deep learning tasks and its application in affective computing.
 
+### ResNet performed well w.r.t CNN built from scratch and VGG16 model, also achieved a good F1-score respectively.
