@@ -41,12 +41,11 @@ Trained models:
 *classify images using multiple convolutional, activation, normalization, pooling, and dropout layers.*
 
 * CNN Architecture Overview
-*This custom Convolutional Neural Network (CNN) is designed for image classification with the following key components:*
-
-*Convolutional Layers: 6 convolutional layers to extract features.*
-*Activation Layers: ReLU activation functions after each convolution.*
-*Batch Normalization Layers: 3 layers to stabilize and speed up training.*
-*Pooling Layers: 3 MaxPooling2D layers to reduce spatial dimensions.*
-*Dropout Layers: 3 dropout layers to prevent overfitting.*
-*Fully Connected Layers: 2 dense layers, including the output layer.*
+This custom Convolutional Neural Network (CNN) is designed for image classification with the following key components:
+** Convolutional Layers: 6 convolutional layers to extract features.
+** Activation Layers: ReLU activation functions after each convolution.
+** Batch Normalization Layers: 3 layers to stabilize and speed up training.
+Pooling Layers: 3 MaxPooling2D layers to reduce spatial dimensions.
+Dropout Layers: 3 dropout layers to prevent overfitting.
+Fully Connected Layers: 2 dense layers, including the output layer.
 
