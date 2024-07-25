@@ -40,8 +40,7 @@ Trained models:
 *This project involves developing a Convolutional Neural Network (CNN) from scratch for image classification. The custom architecture is designed to effectively learn and*
 *classify images using multiple convolutional, activation, normalization, pooling, and dropout layers.*
 
-* ### Overview
-*CNN Architecture Overview*
+* CNN Architecture Overview
 *This custom Convolutional Neural Network (CNN) is designed for image classification with the following key components:*
 
 *Convolutional Layers: 6 convolutional layers to extract features.*
