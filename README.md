@@ -12,7 +12,7 @@ Trained models:
 
 
 
-## Building a CNN Applying Transfer Learning Using VGG16
+* ## Building a CNN Applying Transfer Learning Using VGG16
 
 *Project Focus: Application of transfer learning to build a Convolutional Neural Network (CNN) using the VGG16 architecture.*
 
@@ -31,11 +31,9 @@ Trained models:
 *Modify the network architecture to suit the new dataset.*
 *Train the model while retaining the learned weights of the convolutional base.*
 
-*Objective:*
+*Objective: Demonstrate the efficiency and effectiveness of transfer learning in building robust CNN models for various applications.*
 
-*Demonstrate the efficiency and effectiveness of transfer learning in building robust CNN models for various applications.*
-
-## Building a CNN from Scratch
+* ## Building a CNN from Scratch
 
 *This project involves developing a Convolutional Neural Network (CNN) from scratch for image classification. The custom architecture is designed to effectively learn and*
 *classify images using multiple convolutional, activation, normalization, pooling, and dropout layers.*
