@@ -40,3 +40,5 @@ This project focuses on emotion detection using the Residual Network (ResNet) ar
 This project highlights the effectiveness of ResNet in deep learning tasks and its application in affective computing.
 
 ### ResNet performed well w.r.t CNN built from scratch and VGG16 model, also achieved a good F1-score respectively.
+
+#### If you want detailed code for these pls contact me on Linkedin : " https://www.linkedin.com/in/ansh-kapoor-a153a8222/ "
