@@ -12,7 +12,7 @@ Trained models:
 
 
 
-* ## Building a CNN Applying Transfer Learning Using VGG16
+## Building a CNN Applying Transfer Learning Using VGG16
 
 * Project Focus: Application of transfer learning to build a Convolutional Neural Network (CNN) using the VGG16 architecture.
 * Pre-trained Model: Utilizes VGG16, known for its deep layers and high accuracy on image classification tasks.
